@@ -1,0 +1,2 @@
+Analyzing,vizualising and cleaning a dataset for customer segementation ,understanding the relations and trends between various products. Dataset contains 55000 entries with 13 columns regarding customer demographics,product details,purchasing and payment methods etc. 
+Libraries used are pandas, numpy,matlpotlib,seaborn.
