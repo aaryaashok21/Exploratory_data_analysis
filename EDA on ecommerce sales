@@ -1,2 +1,2 @@
-Analyzing,vizualising and cleaning a dataset for customer segementation ,understanding the relations and trends between various products. Dataset contains 55000 entries with 13 columns regarding customer demographics,product details,purchasing and payment methods etc. 
-Libraries used are pandas, numpy,matlpotlib,seaborn.
+The datset contains e-commerce sales data which contains 55000 entries with 13 columns regarding customer demographics,product details,purchasing and payment methods etc. The data is analysized and vizualised for understanding customer segmentation,understanding treds among products andto obtain major conclusion regarding ecommerce sales.
+The datset is loaded and then analysized and vizualised using libraries pandas ,matplotlib ,seaborn,numpy.
