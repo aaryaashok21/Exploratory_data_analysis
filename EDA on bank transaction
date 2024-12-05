@@ -1,0 +1,3 @@
+ This dataset is curated for a data analysis project focusing on a financial transactions and customer behaviour.
+It includes structured data to explore patterns ,trends and anomalies in banking activities .It contains various data regarding transaction id,transaction type,location,customer age etc
+The dataset is analyzed and visualized using libraries pandas,numpy,matplotlib,seaborn
