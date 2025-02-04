@@ -1,0 +1,17 @@
+This project analyzes a flight booking dataset from EaseMyTrip to extract meaningful insights and predict flight prices using Linear Regression.
+
+Dataset
+The dataset includes details such as:Airlines,Destination,Number of Stops,Ticket Prices
+Methodology
+Data Preprocessing – Cleaning and preparing data for analysis.
+Exploratory Data Analysis (EDA) – Identifying patterns and trends.
+Statistical Hypothesis Testing – Extracting meaningful insights.
+Model Training – Using Linear Regression to predict flight prices.
+Objective
+To help passengers make informed booking decisions by predicting flight prices based on historical data.
+
+Tools Used
+Python
+Pandas, NumPy
+Matplotlib, Seaborn
+Scikit-Learn
