@@ -1,0 +1,15 @@
+This project analyzes loan application data to predict the likelihood of loan status using logistic regression.
+The dataset includes:
+
+Personal details such as Age, gender, education, income, employment experience, home ownership,Loan features like  Loan amount, interest rate, loan intent, income percentage,Financial attributes like Credit history, credit score, previous defaults.
+and target variable: loanstatus
+
+Objective
+
+Perform classification to predict loan default risk based on applicant attributes.
+
+Tools Used
+
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
+Logistic Regression for classification
