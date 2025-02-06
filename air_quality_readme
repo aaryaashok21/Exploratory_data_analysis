@@ -1,0 +1,12 @@
+This project analyzes air pollution data to predict air quality using a classification model.
+Objective
+Predict air quality levels based on environmental factors such as temperature, humidity, and pollutant levels.
+The dataset includes:
+Environmental factors: Temperature, humidity, NO2, CO levels, etc.(independant variable)
+Target variable: air_quality (classification of air quality levels)
+Libraries Used are:
+Pandas
+NumPy
+Seaborn
+Matplotlib
+scikit-learn
