@@ -1,0 +1,9 @@
+This project analyzes student data to predict grades using a classification model.
+The dataset includes:
+Student details: Age, sex, high school type, scholarship, etc.
+Target variable: grade (student's final grade classification)
+Objective
+Perform classification to predict student grades based on provided attributes.
+Tools Used
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+Classification models for prediction
