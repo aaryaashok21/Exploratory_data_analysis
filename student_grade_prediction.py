@@ -1,4 +1,6 @@
 # description
+#This project analyzes student data to predict grades using a classification model. The dataset includes student details such as age, sex, high school type, and scholarships.
+#The target variable is grade. The project utilizes Python libraries like Pandas, NumPy, Seaborn, Matplotlib, and Scikit-learn for data analysis and model training.
 # importing libraries
 import pandas as pd
 import numpy as np
